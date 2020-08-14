@@ -1,0 +1,2 @@
+export const SELECT_TOWER = 'SELECT_TOWER';
+export const APPLY_FILTER = 'APPLY_FILTER';

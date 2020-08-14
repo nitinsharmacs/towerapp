@@ -1,0 +1,9 @@
+.Flats{
+	display:flex;align-items: center;
+}
+.Flat{
+	height:50px;width:90px;margin:0px 2px;
+}
+.Flat img{
+	height:100%;width:100%;
+}

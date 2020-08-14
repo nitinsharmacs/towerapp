@@ -1,0 +1,15 @@
+.Tower {
+	width:150px;border:2px solid grey;padding-top:20px;border-radius:10px;margin:10px 0px;cursor:pointer;
+}
+.TowerImg{
+	width:80%;margin:auto;
+}
+.TowerImg img{
+	height:60%;width:90%;
+}
+.TowerName{
+	padding:10px 0px;background:#eee;border-radius:0px 0px 10px 10px;
+}
+.TowerName p{
+	margin:0;
+}

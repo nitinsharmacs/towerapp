@@ -1,0 +1,9 @@
+.Floor{
+	display:flex;align-items:center;
+}
+.FloorName{
+	background:#eee;width:100px;height:45px;line-height:45px;border:1px solid #ccc;margin-right:10px;
+}
+.FloorName p{
+	margin:0;
+}

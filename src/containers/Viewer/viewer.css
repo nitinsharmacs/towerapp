@@ -1,0 +1,18 @@
+.Viewer{
+	background:white;border-radius:10px;box-shadow:0px 0px 4px black;min-height:700px;padding:20px;margin-left:30px;
+}
+.Header{
+	border-top:2px solid #eee;
+}
+.Header h1{
+	font-weight:normal;
+}
+.Content{
+	display: flex;
+}
+.Floors{
+	overflow:auto;
+}
+.Shadow{
+	width:20px;margin-top:10px;background:#ccc;transform: skewY(40deg);
+}

@@ -1,0 +1,3 @@
+.Towers{
+	display:flex;flex-flow:column;padding:10px;border:2px solid #eee;align-items:center;height:96.5%;
+}
