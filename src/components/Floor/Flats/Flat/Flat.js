@@ -24,7 +24,7 @@ const Flat = props => {
 	let grey=false;
 		if(props.status==='sold')
 			img = RedFlat;
-		if(props.selectedSize&&props.selectedSize<props.size){
+		if(props.selectedSize&&props.selectedSize!==props.size){
 			img = GreyFlat;
 			grey = true;
 		}

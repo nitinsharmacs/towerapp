@@ -16,7 +16,7 @@ export const data = [
 						blockAmount:"50,000",
 						unitCost:"7,113,600",
 						bookingAmount:"355,680",
-						size:290
+						size:1000
 					},
 					{
 						name:'flat2',
