@@ -13,37 +13,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
-						size:1290
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
+						size:290
 					},
 					{
 						name:'flat2',
 						status:'available',
-						block:'undefined',
-						size:1300
+						blockAmount:"60,000",
+						unitCost:"5,113,600",
+						bookingAmount:"255,650",
+						size:130
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
-						size:1500
+						blockAmount:"70,000",
+						unitCost:"8,43,600",
+						bookingAmount:"655,780",
+						size:1000
 					},
 					{
 						name:'flat4',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"1,56,600",
+						bookingAmount:"855,000",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"6,153,600",
+						bookingAmount:"955,580",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"10,000",
+						unitCost:"6,173,670",
+						bookingAmount:"675,650",
 						size:1300
 					}
 				]
@@ -54,37 +66,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"1,563,600",
+						bookingAmount:"645,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"10,000",
+						unitCost:"56,113,600",
+						bookingAmount:"785,680",
 						size:1300
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"9,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
 						status:'available',
-						block:'undefined',
+						blockAmount:"20,000",
+						unitCost:"5,113,600",
+						bookingAmount:"655,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'available',
-						block:'undefined',
+						blockAmount:"60,000",
+						unitCost:"6,113,600",
+						bookingAmount:"355,680",
 						size:1300
 					}
 				]
@@ -95,37 +119,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"30,000",
+						unitCost:"6,113,600",
+						bookingAmount:"365,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"8,113,600",
+						bookingAmount:"385,680",
 						size:1300
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"1,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
 						status:'available',
-						block:'undefined',
+						blockAmount:"10,000",
+						unitCost:"1,113,600",
+						bookingAmount:"315,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"90,000",
+						unitCost:"9,114,600",
+						bookingAmount:"345,680",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'available',
-						block:'undefined',
+						blockAmount:"20,000",
+						unitCost:"2,113,600",
+						bookingAmount:"255,680",
 						size:1300
 					}
 				]
@@ -136,37 +172,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"90,000",
+						unitCost:"7,193,600",
+						bookingAmount:"655,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"40,000",
+						unitCost:"4,113,600",
+						bookingAmount:"345,680",
 						size:1300
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
 						status:'available',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"1,113,600",
+						bookingAmount:"325,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"10,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'available',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"1,113,600",
+						bookingAmount:"355,680",
 						size:1300
 					}
 				]
@@ -182,38 +230,50 @@ export const data = [
 				flats:[
 					{
 						name:'flat1',
-						status:'available',
-						block:'undefined',
-						size:1290
+						status:'sold',
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
+						size:1000
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"60,000",
+						unitCost:"5,113,600",
+						bookingAmount:"255,650",
 						size:1300
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"8,43,600",
+						bookingAmount:"655,780",
 						size:1500
 					},
 					{
 						name:'flat4',
-						status:'available',
-						block:'undefined',
-						size:1667
+						status:'sold',
+						blockAmount:"50,000",
+						unitCost:"1,56,600",
+						bookingAmount:"855,000",
+						size:1001
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
-						size:1000
+						blockAmount:"70,000",
+						unitCost:"6,153,600",
+						bookingAmount:"955,580",
+						size:190
 					},
 					{
 						name:'flat6',
-						status:'available',
-						block:'undefined',
+						status:'sold',
+						blockAmount:"10,000",
+						unitCost:"6,173,670",
+						bookingAmount:"675,650",
 						size:1300
 					}
 				]
@@ -224,37 +284,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"1,563,600",
+						bookingAmount:"645,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
-						size:1300
+						blockAmount:"10,000",
+						unitCost:"56,113,600",
+						bookingAmount:"785,680",
+						size:1800
 					},
 					{
 						name:'flat3',
-						status:'available',
-						block:'undefined',
+						status:'sold',
+						blockAmount:"70,000",
+						unitCost:"9,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
 						status:'available',
-						block:'undefined',
+						blockAmount:"20,000",
+						unitCost:"5,113,600",
+						bookingAmount:"655,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1000
 					},
 					{
 						name:'flat6',
-						status:'available',
-						block:'undefined',
+						status:'sold',
+						blockAmount:"60,000",
+						unitCost:"6,113,600",
+						bookingAmount:"355,680",
 						size:1300
 					}
 				]
@@ -265,37 +337,49 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"30,000",
+						unitCost:"6,113,600",
+						bookingAmount:"365,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"8,113,600",
+						bookingAmount:"385,680",
 						size:1300
 					},
 					{
 						name:'flat3',
 						status:'available',
-						block:'undefined',
+						blockAmount:"70,000",
+						unitCost:"1,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
-						status:'available',
-						block:'undefined',
+						status:'sold',
+						blockAmount:"10,000",
+						unitCost:"1,113,600",
+						bookingAmount:"315,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"90,000",
+						unitCost:"9,114,600",
+						bookingAmount:"345,680",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'available',
-						block:'undefined',
+						blockAmount:"20,000",
+						unitCost:"2,113,600",
+						bookingAmount:"255,680",
 						size:1300
 					}
 				]
@@ -306,44 +390,56 @@ export const data = [
 					{
 						name:'flat1',
 						status:'available',
-						block:'undefined',
+						blockAmount:"90,000",
+						unitCost:"7,193,600",
+						bookingAmount:"655,680",
 						size:1290
 					},
 					{
 						name:'flat2',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"40,000",
+						unitCost:"4,113,600",
+						bookingAmount:"345,680",
 						size:1300
 					},
 					{
 						name:'flat3',
-						status:'available',
-						block:'undefined',
+						status:'sold',
+						blockAmount:"50,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1500
 					},
 					{
 						name:'flat4',
 						status:'available',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"1,113,600",
+						bookingAmount:"325,680",
 						size:1667
 					},
 					{
 						name:'flat5',
 						status:'sold',
-						block:'undefined',
+						blockAmount:"10,000",
+						unitCost:"7,113,600",
+						bookingAmount:"355,680",
 						size:1000
 					},
 					{
 						name:'flat6',
 						status:'available',
-						block:'undefined',
+						blockAmount:"50,000",
+						unitCost:"1,113,600",
+						bookingAmount:"355,680",
 						size:1300
 					}
 				]
 			}
-			
 		]
 	}
+	
 ];
 
 export const towers = [

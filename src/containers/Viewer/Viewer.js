@@ -8,6 +8,7 @@ class Viewer extends Component {
 	state = {
 		towerData:data
 	}
+	
 	render(){
 		let selectedTower = data.find(dat=>dat.id===this.props.towerId);
 		return (
@@ -18,7 +19,7 @@ class Viewer extends Component {
 				<div className={classes.Content}>
 					<div className={classes.Floors}>
 						{
-							selectedTower.floors.map(floor=><Floor {...floor} />)
+							selectedTower.floors.map(floor=><Floor {...floor}  />)
 						}
 					</div>
 					<div className={classes.Shadow}>

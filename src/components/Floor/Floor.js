@@ -8,7 +8,7 @@ const Floor = props => {
 			<div className={classes.FloorName}>
 				<p>{ props.name }</p>
 			</div>
-			<Flats flats={props.flats} />
+			<Flats flats={props.flats}  />
 		</div>
 		);
 };
